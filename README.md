@@ -1,2 +1,2 @@
-# C-teht-v-t
+# C-tehtavat
 C assignments
