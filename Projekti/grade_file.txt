@@ -1,0 +1,6 @@
+Student: Michael Smith
+Subject                   Score   Grade
+1                          50%     1
+networks                   70%     3
+maths                      70%     3
+Average Grade: 2.33
