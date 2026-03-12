@@ -51,7 +51,7 @@ int calculate_grade(int score){
 }
 //New line removal
 void remove_newline(char *str){
-    str[strcspn(str, "\n")] = '\0';
+    str[strcspn(str, "\n")] = '\0';  //Asked helped from a friend and looked online for this.
 }
 //Asks for name
 void get_student_data(char *name){
@@ -78,7 +78,7 @@ int get_subject_count(){
         scanf("%d", &count);
     }
 
-    getchar(); // clear newline
+    getchar(); // clear newline //got help with AI 
     return count;
 }
 //Get people and score
